@@ -1,6 +1,7 @@
 # AI Shopping Assistant
 
 An intelligent RAG-Based shopping assistant powered by Anthropic's Claude 3.5 Sonnet, OpenAI's `text-embedding-3-small`, and Pinecone vector database that helps users find products through natural conversation and provides personalized recommendations.
+Check it out [here](https://gen-ai-shopping-assistant.streamlit.app/)!
 
 ## Demo
 
