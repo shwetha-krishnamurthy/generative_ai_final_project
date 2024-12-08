@@ -7,6 +7,7 @@ An intelligent RAG-Based shopping assistant powered by Anthropic's Claude 3.5 So
 <!-- Choose one of these options based on your video format: -->
 
 ![Demo](GenAI-Final-Project-Video.gif)
+[GitHub Repository](https://github.com/shwetha-krishnamurthy/generative_ai_final_project)
 
 ## Features
 
