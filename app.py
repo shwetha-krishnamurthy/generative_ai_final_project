@@ -235,7 +235,7 @@ def main():
     st.title("🛍️ AI Shopping Assistant")
     
     # Initialize the bot (you'll need to add your API key)
-    bot = ProductSearchBot(api_key=os.environ.get("ANTHROPIC_API_KEY"))
+    bot = ProductSearchBot(api_key=os.getenv("ANTHROPIC_API_KEY"))
     
     # Search interface
     with st.form("search_form"):
