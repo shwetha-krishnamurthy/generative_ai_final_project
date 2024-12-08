@@ -1,0 +1,9 @@
+pandas
+pinecone
+openai
+google-api-python-client
+protoc-gen-openapiv2
+grpcio
+grpcio-tools
+anthropic
+streamlit

@@ -1,0 +1,17 @@
+# Ignore Python cache directories
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+
+# Ignore dotenv files
+.env
+
+# Ignore all CSV files
+*.csv
+
+# Ignore all JSONL files
+*.jsonl
+
+# Ignore all JSONL.GZ files
+*.jsonl.gz
